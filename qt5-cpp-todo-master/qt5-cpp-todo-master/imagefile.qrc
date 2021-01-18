@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>imgs/64-647021_light-colour-background-hd.jpg</file>
+        <file>imgs/6557f516afe5485.jpg</file>
+        <file>imgs/1567832.jpg</file>
+        <file>imgs/Apps-to-Help-You-Move-More-at-Work-11.png</file>
+        <file>imgs/backg.jpg</file>
+        <file>imgs/backg1.jpg</file>
+        <file>imgs/c1.png</file>
+        <file>imgs/drinking-water-while-working-with-laptop-computer_109710-5073.jpg</file>
+    </qresource>
+</RCC>
